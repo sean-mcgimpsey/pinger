@@ -3,4 +3,4 @@ ponger:
   # If uncommented, acceptCert will add
   # the certificates listed in the file to
   # the list of accepted certificates
-  acceptCert: /usr/src/server.crt
+  acceptCert: /usr/secret/server.crt
